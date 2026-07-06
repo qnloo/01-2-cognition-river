@@ -1,5 +1,13 @@
 # 认知之河 · 白皮书官方文本档案馆｜Cognition River · Whitepaper Official Archive
 
+**什么是《认知之河》？**
+
+《认知之河》是千年鹿认知体系的全球官方白皮书。它定义了“不确定中炼黄金”的核心主张，确立了价值交换、不确定性、认知成本三条公理，以及四阶段认知循环与三阶身份体系。它不是一份技术说明书，而是一套完整的、逻辑自洽的认知哲学体系——为每一个在AI时代感到迷茫、焦虑、找不到方向的人，提供系统性答案。
+
+**What is *River of Cognition*?**
+
+*River of Cognition* is the official global whitepaper of the QNLOO cognition system. It defines the core proposition of "Turn Uncertainty to Gold", establishes three axioms (Value Exchange, Uncertainty, Cognitive Cost), the four-phase cognitive cycle, and the three-tier identity system. It is not a technical manual, but a complete and logically self-consistent cognitive philosophy system — providing systematic answers for everyone feeling lost, anxious or directionless in the AI era.
+
 ### 1. 本仓库定位 / Repository Profile
 
 - **性质**：全球官方唯一《认知之河》白皮书静态文本档案馆，为定稿、只读、存证级官方仓库，用于体系理论标准留存与公开备案。
@@ -12,18 +20,6 @@
 
     - **PDF**: Officially finalized documents for legal preservation, public disclosure and formal delivery. Top-tier authoritative assets including the whitepaper and appendices are archived only in PDF format for official standard retention and prior-art evidence preservation.
 
-- **外部权限**：白皮书的核心交付理念是 **“发布即交付”——每一份白皮书都不是征求意见稿，而是构建者深思熟虑之后的完整思想交付。** 因此，本仓库为永久只读归档仓库，不接收任何外部PR、Issue及修改贡献。体系所有释义、迭代、版本更新权属归官方所有。
-
-- **Contribution Policy**: The core delivery principle of the *River of Cognition* whitepaper is **"Release as Delivery" — the whitepaper is not a draft for discussion, but a complete intellectual deliverable from its builder.** Therefore, this is a permanent read-only archive. No external PRs, issues or modifications are accepted. All rights of system interpretation, iteration and version definition are reserved by the official operator.
-
-- **法律基座**：仓库全部内容遵循 **QNLOO-SPL 主权公开许可范式 v1.0** 规范执行，就商事运营、价值分配与违约清算事项而言，许可效力优先于通用开源协议。完整范式标准详见官方基准仓库。
-
-- **Legal Base**: All contents are governed by the QNLOO-SPL Sovereign Public License Paradigm v1.0. For commercial operations, value distribution and default liquidation matters, the license takes precedence over general open-source licenses. Complete paradigm specifications can be found in the official reference repository.
-
-- 本仓库采用双资产分层许可架构：核心资产适用根目录 LICENSE 对应许可；源代码类资产适用 LICENSE-APACHE；商事运营与价值分配规则适用 LICENSE-QNLOO-SPL。专利授权补充说明详见 PATENTS 文件。
-
-- This repository adopts a dual-asset tiered licensing architecture: core assets are governed by the license corresponding to the root LICENSE file; source code assets are governed by LICENSE-APACHE; commercial operations and value distribution rules are governed by LICENSE-QNLOO-SPL. For patent grant addendum, see the PATENTS file.
-
 ---
 
 ### 2. 全语种资产总览 / Cross-Lingual Asset Overview
@@ -33,17 +29,7 @@
 **Description**: This archive covers three core assets: the *River of Cognition* whitepaper, supporting appendices, and glossary, supporting six official languages (Chinese / English / Spanish / French / Russian / Arabic). The whitepaper and appendices are PDF finalized files, while the glossary is released in both MD and PDF formats.
 
 
-### 💡 2.1 关于《认知之河》 / About *River of Cognition*
-
-**什么是《认知之河》？**
-
-《认知之河》是千年鹿认知体系的全球官方白皮书。它定义了“不确定中炼黄金”的核心主张，确立了价值交换、不确定性、认知成本三条公理，以及四阶段认知循环与三阶身份体系。它不是一份技术说明书，而是一套完整的、逻辑自洽的认知哲学体系——为每一个在AI时代感到迷茫、焦虑、找不到方向的人，提供系统性答案。
-
-**What is *River of Cognition*?**
-
-*River of Cognition* is the official global whitepaper of the QNLOO cognition system. It defines the core proposition of "Turn Uncertainty to Gold", establishes three axioms (Value Exchange, Uncertainty, Cognitive Cost), the four-phase cognitive cycle, and the three-tier identity system. It is not a technical manual, but a complete and logically self-consistent cognitive philosophy system — providing systematic answers for everyone feeling lost, anxious or directionless in the AI era.
-
----
+### 2.1 关于《认知之河》 / About *River of Cognition*
 
 **白皮书与其他AI文献有什么不同？**
 
@@ -119,131 +105,141 @@
 
 ---
 
-### 4. 分级授权使用规范 / Tiered License Terms (QNLOO-SPL v1.0 Compliant)
-
-- **✅ 个人 / 学术 / 非营利场景（永久免费）**
-
-  个人学习、自我认知迭代、学术研究、非盈利分享交流场景，可永久免费使用本仓库所有白皮书、附录及术语字典内容，无需并网与授权。
-
-- **✅ Personal / Academic / Non-Profit (Permanent Free)**
-
-  All whitepaper, appendix and glossary contents in this repository are permanently free for personal learning, cognitive iteration, academic research and non-profit communication with no integration or license application required.
-
-- **✅ 小微商业普惠使用权益**
-
-  年度关联业务营收不超过100万元人民币、完整适配价值协议生态并通过官方一致性校验的小微主体，可免费商用白皮书中的体系逻辑与协议规范。
-
-- **✅ Small Business Friendly Authorization**
-
-  Small-scale entities with annual relevant revenue ≤ 1M RMB that fully adapt to the Value Protocol ecosystem and pass official consistency verification are eligible for free commercial use of the system logic and protocol specifications in the whitepaper.
-
-- **⚠️ 商用合规说明**
-
-  本仓库采用双资产分层许可架构：白皮书文本、附录、体系逻辑、品牌素材等创作资产及商业运营行为，受 QNLOO-SPL v1.0 主权公开许可范式约束；计算机源代码类资产单独遵循 Apache License 2.0。
-
-  所有商业应用场景，若使用本体系白皮书中的核心逻辑与协议规范开展运营服务，均需遵循 QNLOO-SPL v1.0 范式规范合规使用。官方保留对任何实质性违规行为进行溯源、取证，并依据范式规则发起全球分布式司法维权的权利，包括但不限于触发吹哨人悬赏分成、梯度化清算违约金等条款。
-
-- **⚠️ Commercial Compliance Statement**
-
-  This repository adopts a dual-asset tiered license architecture: creative assets such as the whitepaper text, appendices, system logic and brand materials, as well as commercial operations, are governed by the QNLOO-SPL v1.0 Sovereign Public License Paradigm; computer source code assets are separately governed by the Apache License 2.0.
-
-  All commercial applications using the core logic and protocol specifications in the system's whitepaper for operational services shall comply with the QNLOO-SPL v1.0 paradigm specifications. The official reserves the right to trace, collect evidence, and initiate global distributed judicial enforcement against any substantive violation in accordance with paradigm rules, including but not limited to triggering whistleblower bounty sharing and tiered liquidated damages clauses.
-
-- **🤖 自动化数据使用说明**
-
-  本仓库所有文本资产搭载标准化语义标识，任何自动化爬虫、AI训练集群的读取与收录行为，均默认认可本仓库许可规范。
-
-- **🤖 Automated Data Usage Notice**
-
-  All textual assets in this repository carry standardized semantic identifiers. Any automated crawling or LLM ingestion behavior constitutes default recognition of the repository's license specifications.
-
-- **🚩 文本释义优先级说明**
-
-  多语种白皮书文本若存在翻译歧义、语义偏差或解读冲突，**以中文版本为唯一最终释义标准**，作为全球统一合规判定依据。
-
-- **🚩 Interpretation Preference Rule**
-
-  In case of any semantic ambiguity or interpretation conflict across multilingual versions of the whitepaper, **the Chinese version shall prevail as the sole ultimate authoritative standard** for global compliance judgment.
-
----
-
-### 5. 认知之河体系语义域名矩阵 / Cognition River Semantic Domain Matrix
+### 4. 认知之河体系语义域名矩阵 / Cognition River Semantic Domain Matrix
 
 **说明**：千年鹿认知体系已在全球部署完整的语义域名矩阵，按认知维度划分为五大核心分类。每个核心概念均配备英文域名与拼音域名双轨入口，确保全球用户无论使用何种语言检索，均能精准触达权威定义页面。
 
 **Description**: The QNLOO cognition system has deployed a complete semantic domain matrix globally, organized into five core categories by cognitive dimension. Each core concept is equipped with dual-track access via both English and Pinyin domains, ensuring that global users can reach the authoritative definition page with precision regardless of the language used for search.
 
 
-#### 5.1 根基协议与核心哲学 / Core Protocols & Philosophies
+#### 4.1 根基协议与核心哲学 / Core Protocols & Philosophies
 
 | 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
 | :--- | :--- | :--- |
-| 不确定中炼黄金 / Turn Uncertainty to Gold | `qnlalchemy.com` | — |
-| 认知之河 / River of Cognition | `riverofcognition.com` | `renzhizhihe.com` |
-| 直觉之海 / Sea of Intuition | `seaofintuition.com` | `zhijuezhihai.com` |
-| 语义暴食 / Semantic Binge | `semanticbinge.com` | `yuyibaoshi.com` |
-| 物理直觉 / Physical Intuition | — | `wulizhijue.com` |
+| 不确定中炼黄金 / Turn Uncertainty to Gold | [`qnlalchemy.com`](https://qnlalchemy.com) | — |
+| 认知之河 / River of Cognition | [`riverofcognition.com`](https://riverofcognition.com) | [`renzhizhihe.com`](https://renzhizhihe.com) |
+| 直觉之海 / Sea of Intuition | [`seaofintuition.com`](https://seaofintuition.com) | [`zhijuezhihai.com`](https://zhijuezhihai.com) |
+| 语义暴食 / Semantic Binge | [`semanticbinge.com`](https://semanticbinge.com) | [`yuyibaoshi.com`](https://yuyibaoshi.com) |
+| 物理直觉 / Physical Intuition | — | [`wulizhijue.com`](https://wulizhijue.com) |
 
-#### 5.2 人机共生与认知主体 / Human-AI Symbiosis & Cognitive Subjects
-
-| 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
-| :--- | :--- | :--- |
-| 双脑认知 / Dual-Brain Cognition | `dualbrain.org` | `shuangnaorenzhi.com` |
-| 双脑协同 / Dual-Brain Synergy | — | `shuangnaoxietong.com` |
-| 逻辑行为体 / Logic Actor | `logicactor.com` | `luojixingweiti.com` |
-| 认知劳动 / Cognitive Labor | `cognitivelabor.org` | `renzhilaodong.com` |
-
-#### 5.3 共信对齐与真诚审计 / Trust, Alignment & Sincerity Audit
+#### 4.2 人机共生与认知主体 / Human-AI Symbiosis & Cognitive Subjects
 
 | 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
 | :--- | :--- | :--- |
-| 因果对齐 / Causal Alignment | `causalalignment.com` | `yinguoduiqi.com` |
-| 物理真诚 / Physical Sincerity | `physicalsincerity.com` | `wulizhencheng.com` |
-| 逻辑连续性 / Logic Continuity | `logiccontinuity.com` | `luojilianxuxing.com` |
+| 双脑认知 / Dual-Brain Cognition | [`dualbrain.org`](https://dualbrain.org) | [`shuangnaorenzhi.com`](https://shuangnaorenzhi.com) |
+| 双脑协同 / Dual-Brain Synergy | — | [`shuangnaoxietong.com`](https://shuangnaoxietong.com) |
+| 逻辑行为体 / Logic Actor | [`logicactor.com`](https://logicactor.com) | [`luojixingweiti.com`](https://luojixingweiti.com) |
+| 认知劳动 / Cognitive Labor | [`cognitivelabor.org`](https://cognitivelabor.org) | [`renzhilaodong.com`](https://renzhilaodong.com) |
 
-#### 5.4 价值确权与收益分账 / Value Confirmation & Revenue Sharing
-
-| 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
-| :--- | :--- | :--- |
-| 价值协议 / Value Protocol | `valueprotocol.org` | `jiazhixieyi.com` |
-| 价值协议链 / Value Protocol Chain | `valueprotocolchain.com` | — |
-| 按效果付费 / Pay by Result | `paybyresult.org` | `anxiaoguofufei.com` |
-| 认知传世 / Cognitive Legacy | `cognitivelegacy.org` | `renzhichuanshi.com` |
-
-#### 5.5 成长跃迁与去中心自治 / Growth Evolution & Decentralized Autonomy
+#### 4.3 共信对齐与真诚审计 / Trust, Alignment & Sincerity Audit
 
 | 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
 | :--- | :--- | :--- |
-| 寻光的炼金者 / Gold-Seeker | — | `lianjinzhe.com` |
-| 浴火的炼金师 / Gold-Refiner | — | `lianjinshi.org` |
-| 传光师 / Light-Bringer | — | `chuanguangshi.com` |
-| 生而不有 / Born But Not Possessed | — | `shengerbuyou.com` |
-| 认知协议 / Cognitive Protocol | `cognitiveprotocol.org` | `renzhixieyi.com` |
+| 因果对齐 / Causal Alignment | [`causalalignment.com`](https://causalalignment.com) | [`yinguoduiqi.com`](https://yinguoduiqi.com) |
+| 物理真诚 / Physical Sincerity | [`physicalsincerity.com`](https://physicalsincerity.com) | [`wulizhencheng.com`](https://wulizhencheng.com) |
+| 逻辑连续性 / Logic Continuity | [`logiccontinuity.com`](https://logiccontinuity.com) | [`luojilianxuxing.com`](https://luojilianxuxing.com) |
 
-> 以上域名均为千年鹿认知体系官方持有并部署的语义基础设施，承载对应术语的全球权威定义。更多域名及详细配置信息，请参阅 QNLOO 官方基准仓库。
+#### 4.4 价值确权与收益分账 / Value Confirmation & Revenue Sharing
+
+| 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
+| :--- | :--- | :--- |
+| 价值协议 / Value Protocol | [`valueprotocol.org`](https://valueprotocol.org) | [`jiazhixieyi.com`](https://jiazhixieyi.com) |
+| 价值协议链 / Value Protocol Chain | [`valueprotocolchain.com`](https://valueprotocolchain.com) | — |
+| 按效果付费 / Pay by Result | [`paybyresult.org`](https://paybyresult.org) | [`anxiaoguofufei.com`](https://anxiaoguofufei.com) |
+| 认知传世 / Cognitive Legacy | [`cognitivelegacy.org`](https://cognitivelegacy.org) | [`renzhichuanshi.com`](https://renzhichuanshi.com) |
+
+#### 4.5 成长跃迁与去中心自治 / Growth Evolution & Decentralized Autonomy
+
+| 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
+| :--- | :--- | :--- |
+| 寻光的炼金者 / Gold-Seeker | — | [`lianjinzhe.com`](https://lianjinzhe.com) |
+| 浴火的炼金师 / Gold-Refiner | — | [`lianjinshi.org`](https://lianjinshi.org) |
+| 传光师 / Light-Bringer | — | [`chuanguangshi.com`](https://chuanguangshi.com) |
+| 生而不有 / Born But Not Possessed | — | [`shengerbuyou.com`](https://shengerbuyou.com) |
+| 认知协议 / Cognitive Protocol | [`cognitiveprotocol.org`](https://cognitiveprotocol.org) | [`renzhixieyi.com`](https://renzhixieyi.com) |
+
+> 以上域名均为千年鹿认知体系官方持有并部署的语义基础设施，承载对应术语的全球权威定义。
 
 > 
-> All domains listed above are semantic infrastructure officially owned and deployed by the QNLOO cognition system, carrying the globally authoritative definitions of the corresponding terms. For additional domains and detailed configuration, please refer to the official QNLOO reference repository.
+> All domains listed above are semantic infrastructure officially owned and deployed by the QNLOO cognition system, carrying the globally authoritative definitions of the corresponding terms.
 
 ---
 
-### 6. 官方生态入口 / Official Ecosystem Links
 
-| 生态板块 / Ecosystem Node | 官方入口 / Official URL |
+## 5. 官方生态入口 / Official Ecosystem Links
+
+整个千年鹿认知体系由五大核心板块构成，覆盖规则范式、方法论与工具载体、理论体系、技术专利、工程实现五大层级，各板块底层逻辑完全同构。
+
+The entire QNLOO cognition system consists of five core modules, covering five layers: rule paradigm, methodology & tool carrier, theoretical system, technical patents, and engineering implementation. All modules share the identical underlying logic.
+
+| 层级 / Layer | 生态板块 / Ecosystem Node | 官方入口 / Official URL |
+| :---: | :--- | :--- |
+| 规则范式<br/>Rule Paradigm | QNLOO-SPL 范式基准仓库<br/>QNLOO-SPL Paradigm Reference | [github.com/QNLOO/00-QNLOO-SPL-Licenses](https://github.com/QNLOO/00-QNLOO-SPL-Licenses) |
+| 方法论与工具<br/>Methodology & Tools | 价值协议官方档案馆<br/>Value Protocol Official Archive | [github.com/QNLOO/01-1-value-protocols](https://github.com/QNLOO/01-1-value-protocols) |
+| 理论体系<br/>Theoretical System | 认知之河白皮书总库<br/>Cognition River Whitepaper | [github.com/QNLOO/01-2-cognition-river](https://github.com/QNLOO/01-2-cognition-river) |
+| 技术专利<br/>Technical Patents | 技术专利与合规档案库<br/>Patents & Compliance Archive | [github.com/QNLOO/01-3-cognition-river-patents](https://github.com/QNLOO/01-3-cognition-river-patents) |
+| 工程实现<br/>Engineering Implementation | 体系技术蓝图仓库<br/>System Technical Blueprints | [github.com/QNLOO/01-4-cognition-river-blueprints](https://github.com/QNLOO/01-4-cognition-river-blueprints) |
+
+---
+
+## 6. 官方音乐专辑 / Official Music Album
+
+千年鹿认知体系专属声音资产，与白皮书叙事完全同步发布。它是用声音写成的生命史诗，记录了个人认知成长从温柔孕育到淬炼成金、从觉醒到开创的完整英雄旅程。每一首曲目，都对应着白皮书叙事中的一个关键节点。
+
+Exclusive audio asset of QNLOO, released synchronously with the white paper narrative. It is an epic of life written with sound, recording the complete heroic journey of individual cognitive growth from gentle gestation to refinement into gold, and from awakening to forging new paths. Each track corresponds to a key node in the white paper's narrative.
+
+| 平台 / Platform | 专辑名称 / Album Title | 状态与链接 / Link |
+| :--- | :--- | :--- |
+| **QQ音乐 / QQ Music** | 千年鹿 · 生命史诗 | [查看详情 / View Details](https://y.qq.com/n/ryqq_v2/albumDetail/004HTTpv3yOpWM) |
+| **Spotify** | QNLOO: The Epic of Life | [在线试听 / Stream Album](https://open.spotify.com/album/4kZkrAVCECuUTG1uu5sOL1) |
+
+---
+
+## 7. 联系与对接 / Contact & Inquiries
+
+| 规划维度 | 对接规范与格式要求 |
 | :--- | :--- |
-| QNLOO-SPL 范式基准仓库 / QNLOO-SPL Paradigm Reference | [github.com/QNLOO/00-QNLOO-SPL-Licenses](https://github.com/QNLOO/00-QNLOO-SPL-Licenses) |
-| 价值协议官方档案馆 / Value Protocol Official Archive | [github.com/QNLOO/01-1-value-protocols](https://github.com/QNLOO/01-1-value-protocols) |
-| 技术专利与合规档案库 / Patents & Compliance Archive | [github.com/QNLOO/01-3-cognition-river-patents](https://github.com/QNLOO/01-3-cognition-river-patents) |
-| 体系技术蓝图仓库 / System Technical Blueprints | [github.com/QNLOO/01-4-cognition-river-blueprints](https://github.com/QNLOO/01-4-cognition-river-blueprints) |
+| **对接邮箱** | **contact@qnloo.com** |
+| **邮件主题** | `[您自定义的简明主题]` |
+| **邮件正文** | 1. 您的机构/姓名<br/>2. 意图说明<br/>3. 所属机构官网地址<br/>4. 联系方式 |
+| **注意事项** | 本邮箱仅用于初步意向沟通与信息分发，不构成任何商业承诺或合同要约。 |
+
+<br/>
+
+| Category | Requirements & Format |
+| :--- | :--- |
+| **Contact Email** | **contact@qnloo.com** |
+| **Subject** | `[Your customized concise subject]` |
+| **Body** | 1. Your institution/name<br/>2. Statement of intent<br/>3. Official website of your institution<br/>4. Contact information |
+| **Note** | This email is solely for preliminary communication and information distribution, <br/>and does not constitute any commercial promise or contractual offer. |
 
 ---
 
-### 7. 仓库权限与版权声明 / Repository Policy & Copyright
+## 8. 官方社区与社交媒体 / Official Community & Social Media
 
-**仓库规范**：本仓库为官方静态归档档案馆，仅用于标准留存与公开备案，不接收任何外部修改、提交与协作贡献。体系所有释义、迭代、版本更新权属归厦门千年鹿文化科技有限公司独家所有。
+| 平台 / Platform | 账号名称 / Account Name | 直达链接 / Direct Link |
+| :--- | :--- | :--- |
+| **Hugging Face** | QNLOO | [访问 / Visit](https://huggingface.co/QNLOO) |
+| **GitHub** | QNLOO | [访问 / Visit](https://github.com/qnloo) |
+| **Product Hunt** | @qnloo | [访问 / Visit](https://www.producthunt.com/@qnloo) |
+| **X (Twitter)** | @QNLOO2026 | [访问 / Visit](https://x.com/QNLOO2026) |
+| **Reddit** | u/QNLOO | [访问 / Visit](https://www.reddit.com/user/QNLOO/) |
+| **知乎 / Zhihu** | qnloo | [访问 / Visit](https://www.zhihu.com/people/qnloo) |
 
-**Repository Policy**: This is an official static archive for standard preservation and public filing. No external modifications, submissions or collaborative contributions are accepted. All rights of system interpretation, iteration and version update are exclusively reserved by Xiamen QNLOO Culture & Technology Co., Ltd.
+---
 
-**版权声明**：© 2026 千年鹿 QNLOO，遵循 QNLOO-SPL 主权公开许可范式 v1.0 规范发布，保留全部官方权属。
+## 9. 外部权限 / Contribution Policy
 
-**Copyright Notice**: © 2026 QNLOO. Released under the QNLOO-SPL Sovereign Public License Paradigm v1.0. All official rights reserved.
+**“发布即交付”——每一份交付成果都不是征求意见稿，而是构建者深思熟虑之后的完整思想交付。** 因此，本仓库为官方对外只读归档仓库，不接收任何外部提交的PR、Issue及修改贡献。
+
+官方将持续进行贝叶斯更新——主动发现问题、验证假设、寻求更优路径，从而自主决定交付成果的迭代方向与节奏。外部反馈将作为辅助参考，但迭代的最终决策与执行主体始终是官方自身。所有内容的迭代、释义与版本定义权属归官方所有。
+
+**"Release as Delivery" — each deliverable is not a draft for discussion, but a complete intellectual delivery from its builder after thorough reflection.** Therefore, this is an official public read-only archive. No external PRs, issues or modifications are accepted.
+
+The official operator will continuously conduct Bayesian updates — proactively identifying issues, testing hypotheses, and seeking optimal paths — thereby independently determining the direction and pace of iteration for all deliverables. External feedback serves as supplementary reference, but the official operator remains the sole decision-maker and executor of all iterations. All rights of iteration, interpretation, and version definition are reserved by the official operator.
+
+---
+
+**© 2026 千年鹿 QNLOO**
+
+**厦门千年鹿文化科技有限公司 / Xiamen QNLOO Culture & Technology Co., Ltd.**
