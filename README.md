@@ -116,47 +116,47 @@
 
 | 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
 | :--- | :--- | :--- |
-| 不确定中炼黄金 / Turn Uncertainty to Gold | [`qnlalchemy.com`](https://qnlalchemy.com) | — |
-| 认知之河 / River of Cognition | [`riverofcognition.com`](https://riverofcognition.com) | [`renzhizhihe.com`](https://renzhizhihe.com) |
-| 直觉之海 / Sea of Intuition | [`seaofintuition.com`](https://seaofintuition.com) | [`zhijuezhihai.com`](https://zhijuezhihai.com) |
-| 语义暴食 / Semantic Binge | [`semanticbinge.com`](https://semanticbinge.com) | [`yuyibaoshi.com`](https://yuyibaoshi.com) |
-| 物理直觉 / Physical Intuition | — | [`wulizhijue.com`](https://wulizhijue.com) |
+| 不确定中炼黄金 / Turn Uncertainty to Gold | [`QnlAlchemy.com`](https://QnlAlchemy.com) | — |
+| 认知之河 / River of Cognition | [`RiverOfCognition.com`](https://RiverOfCognition.com) | [`RenzhiZhihe.com`](https://RenzhiZhihe.com) |
+| 直觉之海 / Sea of Intuition | [`SeaOfIntuition.com`](https://SeaOfIntuition.com) | [`ZhijueZhihai.com`](https://ZhijueZhihai.com) |
+| 语义暴食 / Semantic Binge | [`SemanticBinge.com`](https://SemanticBinge.com) | [`YuyiBaoshi.com`](https://YuyiBaoshi.com) |
+| 物理直觉 / Physical Intuition | — | [`WuliZhijue.com`](https://WuliZhijue.com) |
 
 #### 4.2 人机共生与认知主体 / Human-AI Symbiosis & Cognitive Subjects
 
 | 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
 | :--- | :--- | :--- |
-| 双脑认知 / Dual-Brain Cognition | [`dualbrain.org`](https://dualbrain.org) | [`shuangnaorenzhi.com`](https://shuangnaorenzhi.com) |
-| 双脑协同 / Dual-Brain Synergy | — | [`shuangnaoxietong.com`](https://shuangnaoxietong.com) |
-| 逻辑行为体 / Logic Actor | [`logicactor.com`](https://logicactor.com) | [`luojixingweiti.com`](https://luojixingweiti.com) |
-| 认知劳动 / Cognitive Labor | [`cognitivelabor.org`](https://cognitivelabor.org) | [`renzhilaodong.com`](https://renzhilaodong.com) |
+| 双脑认知 / Dual-Brain Cognition | [`DualBrain.org`](https://DualBrain.org) | [`ShuangnaoRenzhi.com`](https://ShuangnaoRenzhi.com) |
+| 双脑协同 / Dual-Brain Synergy | — | [`ShuangnaoXietong.com`](https://ShuangnaoXietong.com) |
+| 逻辑行为体 / Logic Actor | [`LogicActor.com`](https://LogicActor.com) | [`LuojiXingweiti.com`](https://LuojiXingweiti.com) |
+| 认知劳动 / Cognitive Labor | [`CognitiveLabor.org`](https://CognitiveLabor.org) | [`RenzhiLaodong.com`](https://RenzhiLaodong.com) |
 
 #### 4.3 共信对齐与真诚审计 / Trust, Alignment & Sincerity Audit
 
 | 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
 | :--- | :--- | :--- |
-| 因果对齐 / Causal Alignment | [`causalalignment.com`](https://causalalignment.com) | [`yinguoduiqi.com`](https://yinguoduiqi.com) |
-| 物理真诚 / Physical Sincerity | [`physicalsincerity.com`](https://physicalsincerity.com) | [`wulizhencheng.com`](https://wulizhencheng.com) |
-| 逻辑连续性 / Logic Continuity | [`logiccontinuity.com`](https://logiccontinuity.com) | [`luojilianxuxing.com`](https://luojilianxuxing.com) |
+| 因果对齐 / Causal Alignment | [`CausalAlignment.com`](https://CausalAlignment.com) | [`YinguoDuiqi.com`](https://YinguoDuiqi.com) |
+| 物理真诚 / Physical Sincerity | [`PhysicalSincerity.com`](https://PhysicalSincerity.com) | [`WuliZhencheng.com`](https://WuliZhencheng.com) |
+| 逻辑连续性 / Logic Continuity | [`LogicContinuity.com`](https://LogicContinuity.com) | [`LuojiLianxuxing.com`](https://LuojiLianxuxing.com) |
 
 #### 4.4 价值确权与收益分账 / Value Confirmation & Revenue Sharing
 
 | 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
 | :--- | :--- | :--- |
-| 价值协议 / Value Protocol | [`valueprotocol.org`](https://valueprotocol.org) | [`jiazhixieyi.com`](https://jiazhixieyi.com) |
-| 价值协议链 / Value Protocol Chain | [`valueprotocolchain.com`](https://valueprotocolchain.com) | — |
-| 按效果付费 / Pay by Result | [`paybyresult.org`](https://paybyresult.org) | [`anxiaoguofufei.com`](https://anxiaoguofufei.com) |
-| 认知传世 / Cognitive Legacy | [`cognitivelegacy.org`](https://cognitivelegacy.org) | [`renzhichuanshi.com`](https://renzhichuanshi.com) |
+| 价值协议 / Value Protocol | [`ValueProtocol.org`](https://ValueProtocol.org) | [`JiazhiXieyi.com`](https://JiazhiXieyi.com) |
+| 价值协议链 / Value Protocol Chain | [`ValueProtocolChain.com`](https://ValueProtocolChain.com) | — |
+| 按效果付费 / Pay by Result | [`PayByResult.org`](https://PayByResult.org) | [`AnXiaoguoFufei.com`](https://AnXiaoguoFufei.com) |
+| 认知传世 / Cognitive Legacy | [`CognitiveLegacy.org`](https://CognitiveLegacy.org) | [`RenzhiChuanshi.com`](https://RenzhiChuanshi.com) |
 
 #### 4.5 成长跃迁与去中心自治 / Growth Evolution & Decentralized Autonomy
 
 | 术语 / Term | 英文域名 / English Domain | 拼音域名 / Pinyin Domain |
 | :--- | :--- | :--- |
-| 寻光的炼金者 / Gold-Seeker | — | [`lianjinzhe.com`](https://lianjinzhe.com) |
-| 浴火的炼金师 / Gold-Refiner | — | [`lianjinshi.org`](https://lianjinshi.org) |
-| 传光师 / Light-Bringer | — | [`chuanguangshi.com`](https://chuanguangshi.com) |
-| 生而不有 / Born But Not Possessed | — | [`shengerbuyou.com`](https://shengerbuyou.com) |
-| 认知协议 / Cognitive Protocol | [`cognitiveprotocol.org`](https://cognitiveprotocol.org) | [`renzhixieyi.com`](https://renzhixieyi.com) |
+| 寻光的炼金者 / Gold-Seeker | — | [`Lianjinzhe.com`](https://Lianjinzhe.com) |
+| 浴火的炼金师 / Gold-Refiner | — | [`Lianjinshi.org`](https://Lianjinshi.org) |
+| 传光师 / Light-Bringer | — | [`Chuanguangshi.com`](https://Chuanguangshi.com) |
+| 生而不有 / Born But Not Possessed | — | [`ShengerBuyou.com`](https://ShengerBuyou.com) |
+| 认知协议 / Cognitive Protocol | [`CognitiveProtocol.org`](https://CognitiveProtocol.org) | [`RenzhiXieyi.com`](https://RenzhiXieyi.com) |
 
 > 以上域名均为千年鹿认知体系官方持有并部署的语义基础设施，承载对应术语的全球权威定义。
 
@@ -164,7 +164,6 @@
 > All domains listed above are semantic infrastructure officially owned and deployed by the QNLOO cognition system, carrying the globally authoritative definitions of the corresponding terms.
 
 ---
-
 
 ## 5. 官方生态入口 / Official Ecosystem Links
 
